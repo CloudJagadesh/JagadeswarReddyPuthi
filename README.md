@@ -3,7 +3,7 @@
 ### I'm AWS Python Developer with DevOps Skill set and doing Internship Program at [Rise n Shine Technologies](https://risenshinetechnologies.com)
 
 ## Follow me :rocket:
-[![Jagadeesh's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Jagadeesh's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagadeswar-reddy-puthi/)
 [![Jagadeesh's Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![Jagadeesh's Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
 
