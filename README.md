@@ -1,6 +1,6 @@
-## Hello! I'm Jagadesh 👋
+## Welcome to Jagadesh's GitHub Repository
 
-### I'm AWS Python Developer with DevOps Skill set and doing Internship Program at [Rise n Shine Technologies](https://risenshinetechnologies.com)
+### 👋 Hi there! I'm Jagadesh, an entry-level IT professional passionate about cloud computing, DevOps, and Python. Currently, I'm gaining practical experience through an internship at Rise n Shine Technologies, where I'm working on a variety of exciting projects involving AWS services, Python development, and containerization technologies.
 
 ## Follow me :rocket:
 [![Jagadeesh's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagadeswar-reddy-puthi/)
