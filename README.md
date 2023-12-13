@@ -1,4 +1,4 @@
-## Hello! I'm Jagadeesh 👋
+## Hello! I'm Jagadesh 👋
 
 ### I'm AWS Python Developer with DevOps Skill set and doing Internship Program at [Rise n Shine Technologies](https://risenshinetechnologies.com)
 
